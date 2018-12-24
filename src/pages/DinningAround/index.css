@@ -1,0 +1,9 @@
+.date-picker-list .am-list-item .am-list-line .am-list-extra {
+  flex-basis: initial;
+}
+:global(.my-radio .am-radio) {
+  padding: 2.5px;
+  border: 1px solid rgb(97, 96, 96);
+  border-radius: 50%;
+  margin-right: 5px;
+}
